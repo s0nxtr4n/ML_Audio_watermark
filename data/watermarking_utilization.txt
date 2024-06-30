@@ -1,0 +1,381 @@
+Watermarking Utilization Process Log
+Processed audio file: audio_watermark_env/data/new_audio\104183__ekokubza123__punch.wav
+  Length: 52401 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: 0.000796
+  Std before normalization: 0.144275
+  Mean after watermarking: 0.000194
+  Std after watermarking: 0.345334
+  Load time: 7.038105 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.236055 seconds
+  Save time: 0.009023 seconds
+  Plot time: 0.618106 seconds
+  Total processing time: 7.901289 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\104183__ekokubza123__punch.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_104183__ekokubza123__punch.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_104183__ekokubza123__punch.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\131385__musicmasta1__carstartskidcrash.wav
+  Length: 908948 samples
+  Sample rate: 48000 Hz
+  Mean before normalization: -0.000012
+  Std before normalization: 0.077710
+  Mean after watermarking: 0.001280
+  Std after watermarking: 0.555549
+  Load time: 0.024226 seconds
+  Normalize time: 0.006538 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.061185 seconds
+  Save time: 0.008559 seconds
+  Plot time: 0.284182 seconds
+  Total processing time: 0.384689 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\131385__musicmasta1__carstartskidcrash.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_131385__musicmasta1__carstartskidcrash.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_131385__musicmasta1__carstartskidcrash.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\173932__johnsonbrandediting__ding-ding-small-bell.wav
+  Length: 681984 samples
+  Sample rate: 48000 Hz
+  Mean before normalization: -0.000032
+  Std before normalization: 0.095400
+  Mean after watermarking: 0.000595
+  Std after watermarking: 1.244112
+  Load time: 0.000000 seconds
+  Normalize time: 0.015725 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.054882 seconds
+  Save time: 0.015552 seconds
+  Plot time: 0.240816 seconds
+  Total processing time: 0.326975 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\173932__johnsonbrandediting__ding-ding-small-bell.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_173932__johnsonbrandediting__ding-ding-small-bell.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_173932__johnsonbrandediting__ding-ding-small-bell.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\217542__medartimus__car-breaking-skid-01.wav
+  Length: 119296 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000000
+  Std before normalization: 0.095887
+  Mean after watermarking: 0.000555
+  Std after watermarking: 0.521407
+  Load time: 0.015615 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062504 seconds
+  Save time: 0.015631 seconds
+  Plot time: 0.257604 seconds
+  Total processing time: 0.351356 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\217542__medartimus__car-breaking-skid-01.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_217542__medartimus__car-breaking-skid-01.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_217542__medartimus__car-breaking-skid-01.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\22952__acclivity__cheer.wav
+  Length: 828821 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000014
+  Std before normalization: 0.054078
+  Mean after watermarking: 0.002750
+  Std after watermarking: 1.310936
+  Load time: 0.015877 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062672 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.301677 seconds
+  Total processing time: 0.380226 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\22952__acclivity__cheer.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_22952__acclivity__cheer.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_22952__acclivity__cheer.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\267931__anagar__knock_the_door.wav
+  Length: 443722 samples
+  Sample rate: 48000 Hz
+  Mean before normalization: 0.000002
+  Std before normalization: 0.017486
+  Mean after watermarking: 0.000670
+  Std after watermarking: 1.004049
+  Load time: 0.016670 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.061764 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.281096 seconds
+  Total processing time: 0.359529 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\267931__anagar__knock_the_door.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_267931__anagar__knock_the_door.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_267931__anagar__knock_the_door.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\27130__pryght-one__harp.wav
+  Length: 705600 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000195
+  Std before normalization: 0.118456
+  Mean after watermarking: 0.001945
+  Std after watermarking: 0.971857
+  Load time: 0.015632 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062601 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.431873 seconds
+  Total processing time: 0.510106 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\27130__pryght-one__harp.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_27130__pryght-one__harp.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_27130__pryght-one__harp.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\327666__juan_merie_venter__dog-bark.wav
+  Length: 285436 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000148
+  Std before normalization: 0.119704
+  Mean after watermarking: 0.001493
+  Std after watermarking: 0.806724
+  Load time: 0.015621 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062505 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.295235 seconds
+  Total processing time: 0.373361 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\327666__juan_merie_venter__dog-bark.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_327666__juan_merie_venter__dog-bark.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_327666__juan_merie_venter__dog-bark.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\33637__herbertboland__cinematicboomnorm.wav
+  Length: 333265 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000019
+  Std before normalization: 0.097938
+  Mean after watermarking: 0.000987
+  Std after watermarking: 0.870922
+  Load time: 0.015662 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062596 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.273154 seconds
+  Total processing time: 0.351412 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\33637__herbertboland__cinematicboomnorm.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_33637__herbertboland__cinematicboomnorm.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_33637__herbertboland__cinematicboomnorm.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\341695__projectsu012__coins-1.wav
+  Length: 19890 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: 0.000348
+  Std before normalization: 0.111767
+  Mean after watermarking: 0.000226
+  Std after watermarking: 0.213127
+  Load time: 0.020063 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.051347 seconds
+  Save time: 0.018015 seconds
+  Plot time: 0.265882 seconds
+  Total processing time: 0.355308 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\341695__projectsu012__coins-1.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_341695__projectsu012__coins-1.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_341695__projectsu012__coins-1.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\353194__inspectorj__wind-chimes-a.wav
+  Length: 1139362 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000030
+  Std before normalization: 0.035812
+  Mean after watermarking: 0.003119
+  Std after watermarking: 1.338684
+  Load time: 0.031279 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062474 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.309370 seconds
+  Total processing time: 0.403122 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\353194__inspectorj__wind-chimes-a.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_353194__inspectorj__wind-chimes-a.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_353194__inspectorj__wind-chimes-a.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\3535__luffy__adjusting-the-spped-of-a-record.wav
+  Length: 839622 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: 0.000000
+  Std before normalization: 0.032805
+  Mean after watermarking: 0.001460
+  Std after watermarking: 1.182779
+  Load time: 0.031397 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062503 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.305197 seconds
+  Total processing time: 0.399096 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\3535__luffy__adjusting-the-spped-of-a-record.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_3535__luffy__adjusting-the-spped-of-a-record.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_3535__luffy__adjusting-the-spped-of-a-record.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\378394__deleted_user_7020630__school-bell.wav
+  Length: 176640 samples
+  Sample rate: 48000 Hz
+  Mean before normalization: 0.000001
+  Std before normalization: 0.098470
+  Mean after watermarking: 0.000840
+  Std after watermarking: 0.634409
+  Load time: 0.005853 seconds
+  Normalize time: 0.010033 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062538 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.286197 seconds
+  Total processing time: 0.364622 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\378394__deleted_user_7020630__school-bell.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_378394__deleted_user_7020630__school-bell.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_378394__deleted_user_7020630__school-bell.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\413549__inspectorj__ambience-creepy-wind-a.wav
+  Length: 1455104 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000296
+  Std before normalization: 0.097610
+  Mean after watermarking: 0.002442
+  Std after watermarking: 0.917863
+  Load time: 0.015633 seconds
+  Normalize time: 0.015626 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.046872 seconds
+  Save time: 0.017541 seconds
+  Plot time: 0.343612 seconds
+  Total processing time: 0.439283 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\413549__inspectorj__ambience-creepy-wind-a.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_413549__inspectorj__ambience-creepy-wind-a.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_413549__inspectorj__ambience-creepy-wind-a.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\416529__inspectorj__bird-whistling-single-robin-a.wav
+  Length: 232705 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000000
+  Std before normalization: 0.042598
+  Mean after watermarking: 0.000611
+  Std after watermarking: 0.727207
+  Load time: 0.000000 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.079570 seconds
+  Save time: 0.001105 seconds
+  Plot time: 0.259100 seconds
+  Total processing time: 0.339774 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\416529__inspectorj__bird-whistling-single-robin-a.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_416529__inspectorj__bird-whistling-single-robin-a.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_416529__inspectorj__bird-whistling-single-robin-a.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\421852__inspectorj__crowd-screaming-a.wav
+  Length: 3624635 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000018
+  Std before normalization: 0.078262
+  Mean after watermarking: 0.002726
+  Std after watermarking: 1.151383
+  Load time: 0.078218 seconds
+  Normalize time: 0.031259 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062493 seconds
+  Save time: 0.018190 seconds
+  Plot time: 0.369008 seconds
+  Total processing time: 0.559168 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\421852__inspectorj__crowd-screaming-a.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_421852__inspectorj__crowd-screaming-a.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_421852__inspectorj__crowd-screaming-a.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\43586__syna-max__punches_and_slaps.wav
+  Length: 1150144 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: 0.000361
+  Std before normalization: 0.099851
+  Mean after watermarking: -0.003456
+  Std after watermarking: 0.603039
+  Load time: 0.031250 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062502 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.294025 seconds
+  Total processing time: 0.387777 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\43586__syna-max__punches_and_slaps.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_43586__syna-max__punches_and_slaps.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_43586__syna-max__punches_and_slaps.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\45654__simon_lacelle__dun-dun-dun.wav
+  Length: 246140 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: 0.000008
+  Std before normalization: 0.080892
+  Mean after watermarking: 0.000698
+  Std after watermarking: 0.748496
+  Load time: 0.015626 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.062518 seconds
+  Save time: 0.000000 seconds
+  Plot time: 0.281790 seconds
+  Total processing time: 0.359934 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\45654__simon_lacelle__dun-dun-dun.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_45654__simon_lacelle__dun-dun-dun.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_45654__simon_lacelle__dun-dun-dun.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\58277__benboncan__cow.wav
+  Length: 156271 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000007
+  Std before normalization: 0.128594
+  Mean after watermarking: 0.000838
+  Std after watermarking: 0.596770
+  Load time: 0.015628 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.046873 seconds
+  Save time: 0.016572 seconds
+  Plot time: 0.294320 seconds
+  Total processing time: 0.373394 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\58277__benboncan__cow.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_58277__benboncan__cow.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_58277__benboncan__cow.wav.png
+
+
+Processed audio file: audio_watermark_env/data/new_audio\70938__guitarguy1985__police2.wav
+  Length: 190308 samples
+  Sample rate: 44100 Hz
+  Mean before normalization: -0.000003
+  Std before normalization: 0.120395
+  Mean after watermarking: 0.001053
+  Std after watermarking: 0.658865
+  Load time: 0.015794 seconds
+  Normalize time: 0.000000 seconds
+  Pad/truncate time: 0.000000 seconds
+  Watermark time: 0.046900 seconds
+  Save time: 0.017482 seconds
+  Plot time: 0.270787 seconds
+  Total processing time: 0.350964 seconds
+  Watermarked audio saved to: audio_watermark_env/data/results\70938__guitarguy1985__police2.wav
+  Original audio plot saved to: audio_watermark_env/data/result_pics/original_70938__guitarguy1985__police2.wav.png
+  Watermarked audio plot saved to: audio_watermark_env/data/result_pics/watermarked_70938__guitarguy1985__police2.wav.png
+
+
